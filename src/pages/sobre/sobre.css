@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(211, 179, 184);
+}
+.secao1 h1 {
+    align-items: center;
+    text-align: center;
+    color: #d87093;
+
+    font-size: 80px;
+}
+
+.secao1 {
+    padding: 200px;
+}
+
+.Sobre-nos {
+    display: flex;
+    align-items: center;
+    max-width: 100%;
+    width: 100%;
+    margin-top: 100px;
+    background-color: #d87093;
+}
+
+.titulo-sobre-nos h2 {
+    margin-left: 90px;
+    font-size: 50px;
+    color: #fff;
+}
+
+.titulo-sobre-nos p {
+    margin-top: 10px;
+    margin-left: 20px;
+    text-align: start;
+    font-size: 30px;
+    color: #fff
+    
+}
